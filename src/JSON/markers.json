@@ -1,0 +1,35 @@
+{
+    "markers": [
+        {   
+            
+            "battery" : "50%",
+            "latitude": 12.971599,
+            "longitude": 77.59466
+        },
+        {
+            "battery" : "60%",
+            "latitude": 12.9789,
+            "longitude": 77.6988
+        }
+    ],
+    "points" : [
+        {
+            "vehicleCount" : 5,
+            "battery" : "30%",
+            "latitude" : 12.92170,
+            "longitude" : 77.692221
+        },
+        {
+            "vehicleCount" : 4,
+            "battery" : "70%",
+            "latitude" : 12.9399,
+            "longitude" : 77.5946
+        },
+        {
+            "vehicleCount" : 3,
+            "battery" : "100%",
+            "latitude" : 12.8699,
+            "longitude" : 77.5696
+        }
+    ]
+}
